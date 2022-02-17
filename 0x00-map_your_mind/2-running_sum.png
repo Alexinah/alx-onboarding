@@ -1,7 +1,7 @@
 Start
 Accept x numbers from user
 Initialize sum=0, x=0
-While x >= 0
+While x  is greater than or equal to 0
 Calculate sum= sum + x
 Print the sum
 Stop.
