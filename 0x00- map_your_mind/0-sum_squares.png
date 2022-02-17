@@ -1,7 +1,7 @@
 Step 1: Start
 Step 2: Read Number n
 Step 3: Initialize   sum=0, i=1
-Step 4: Repeat step 4 trhrough 6 until 1<n.
+Step 4: Repeat step 4 through 6 until i<n.
 Step 5: Calculate sum= sum+(i*i)
 Step 6: Increment i=i+1
 Step 7: Print the sum of square "sum"
