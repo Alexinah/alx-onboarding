@@ -1,0 +1,5 @@
+Sum=0
+For i= 1 to n
+Sum= Sum + (i*i)
+Next i
+Print Sum
