@@ -1,0 +1,9 @@
+Start
+Accept three numbers from user (num1, num2, num3)
+If num1<num2 go to step 4 else goto step 8
+If num1< num3 goto step 7
+If num2 < num3 goto step 9
+If num3 <num1 goto step 3
+If num2 <num1 go to step 3
+Display " Ascending order"
+Display a, b, c
